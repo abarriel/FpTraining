@@ -1,0 +1,14 @@
+{
+  "name": "fptraining",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.24.1"
+  },
+  "devDependencies": {
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
+  },
+   "babel": { "presets": [ "latest", "stage-0" ] }
+}
